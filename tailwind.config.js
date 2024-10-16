@@ -5,7 +5,13 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        MerriWeather: ['Merriweather', 'serif'],
+        Dots: ['Edu AU VIC WA NT Dots', 'cursive'],
+        FatFace: ['Abril Fatface', 'serif'],
+      },
+    },
   },
   plugins: [
     require('daisyui'),

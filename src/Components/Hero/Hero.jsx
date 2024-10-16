@@ -17,7 +17,7 @@ const Hero = () => {
                 {/* Hero section */}
                 <div>
                     <div className="grid grid-cols-1 md:grid-cols-2">
-<h1>This is hero section</h1>
+
                     </div>
                 </div>
             </div>
