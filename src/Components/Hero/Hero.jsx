@@ -19,7 +19,7 @@ const Hero = () => {
                 <div>
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 place-items-center min-h-screen">
                         {/* 1ST cols section */}
-                        <div className='text-lightOrange mt-[100px] md:mt-0 p-4 space-y-28'>
+                        <div className='text-lightOrange mt-[100px] md:mt-0 p-4 space-y-24'>
                             <h1 className='text-7xl font-bold leading-tight ml-14 font-FatFace'>Blvck Tumbler</h1>
                             <div className='relative '>
                             <div className='relative z-10 space-y-4'>
