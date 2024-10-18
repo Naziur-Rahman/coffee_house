@@ -20,8 +20,6 @@ export default {
         bgColor: 'bg-gradient-to-r from-cyan-500 to-blue-500',
         danger: '#e74c3c',
         success: '#27ae60',
-        
-        
       },
       container:{
         center: true,
@@ -35,5 +33,5 @@ export default {
   plugins: [
     require('daisyui'),
   ]
-}
+}}
 
