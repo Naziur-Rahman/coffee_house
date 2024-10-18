@@ -5,7 +5,7 @@ const ErrorPage = () => {
     console.error(error);
   return (
     <div id="error-page ">
-      <div className='py-20'>
+      <div className='py-20 text-center'>
         <h1 className='text-3xl font-semibold text-sky-400'>Oops!</h1>
          <div className='py-5 font-medium'>
             <p>Sorry, an unexpected error has occurred.</p>
